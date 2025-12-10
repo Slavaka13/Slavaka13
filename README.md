@@ -7,10 +7,6 @@
 
 
 
-  <!-- Счётчик посетителей -->
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blue" alt="Profile views"/>
-</div>
-
 ---
 
 ## 🧭 О себе
